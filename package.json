@@ -17,5 +17,6 @@
                 "path": "./themes/Neon Forest-color-theme.json"
             }
         ]
-    }
+    },
+    repository": https://github.com/maxludden/neon-forest.git
 }
