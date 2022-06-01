@@ -1,6 +1,6 @@
 # Neon Forest
 
-![Neon Forest](https://github.com/maxludden/neon-forest/blob/c6bbf8a1faba41f63012f7fbdc92d1eeeb4c4a4e/Neon%20Forest.png)
+![Neon Forest](https://i.imgur.com/iTJ1AY3.png)
 
 ## Dark, deep, greens
 
