@@ -1,0 +1,21 @@
+{
+    "name": "neon-forest",
+    "displayName": "Neon Forest",
+    "description": "Dark, deep, greens, purples and some neon pinks Color Theme. Calm and no red all over the syntax making you think you messed up...\n\n...well untill you do.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neon Forest-color-theme.json"
+            }
+        ]
+    }
+}
