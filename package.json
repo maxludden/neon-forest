@@ -18,5 +18,5 @@
             }
         ]
     },
-    repository": https://github.com/maxludden/neon-forest.git
+    "repository": "https://github.com/maxludden/neon-forest.git"
 }
